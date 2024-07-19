@@ -1,0 +1,8 @@
+Mega Menu Development Requirements
+
+- The Mega Menu should be developed according to the specified design.
+- Each accordion within the Mega Menu should function independently.
+- The menu should support three levels of navigation.
+- Best practices must be followed throughout the development process.
+- Clicking on an accordion should open the specific section while closing all other sections.
+- All open states should close when the user clicks on the hamburger menu's close icon.
